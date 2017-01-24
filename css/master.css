@@ -1,0 +1,54 @@
+#encabezado{
+    background-color: #D1404A;
+    color: white;
+    /*margin-bottom: 20px;*/
+}
+#barraProgreso{
+    border-radius: 0px;
+    height: 5px;
+}
+#piePagina{
+    background-color: #22313F;
+    color: white;
+    height: 80px;
+}
+
+#connect{
+    background-color: #22313F;
+    color: white;
+}
+
+#panels{
+    background-color: #D1404A;
+    color: white;
+    border-radius: 0px;
+}
+
+#pagination{
+    background-color: #22313F;
+    color: white;
+}
+
+#icons{
+    margin-right: 4px;
+}
+
+.tabla-scroll{
+    height:200px%;
+    overflow: scroll;
+}
+
+/******* Design button upload **********/
+.buttons-design{
+    background-color: #22313F;
+    color: white;
+}
+#uploadFile{
+    width: 65px;
+    border-radius: 0px;
+}
+/*********** Colores *********/
+#color-black{
+    background-color: #22313F;
+    color: white;
+}
